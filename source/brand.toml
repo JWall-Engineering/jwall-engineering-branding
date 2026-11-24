@@ -1,0 +1,39 @@
+# The JWall Engineering mark, as data: what it says, how it is set and its
+# colors. scripts/render.py draws every published asset from this file and the
+# font it names. The README's "Palette and type" section describes the same
+# values; change the two together.
+
+[name]
+# The wordmark: one line, in two settings of the same typeface.
+first = "JWall"
+second = "Engineering"
+# The monogram is the wordmark's first two letters, set exactly as they are
+# in the wordmark.
+monogram = "JW"
+# The site, set under the wordmark on the social preview.
+site = "jwall.engineering"
+
+[type]
+font = "fonts/Archivo-Variable.ttf"
+# Each setting is a point on the font's two axes: width (62 to 125) and
+# weight (100 to 900). "JWall" and the monogram are fully expanded and extra
+# bold, so they read like a wall: broad, low and solid. "Engineering" and the
+# site are at normal width and regular weight.
+heavy = { width = 125, weight = 800 }
+light = { width = 100, weight = 400 }
+# Extra space after the J in "JW", in ems. Negative enough that the J's stem
+# and the W's first stroke fuse at the top, so the initials read as one piece.
+# At -0.08 they would only meet at a point.
+join = -0.10
+# The space between "JWall" and "Engineering", as a share of a normal space.
+space = 0.85
+
+[palette]
+# The ground of the avatar, favicons, banner and social preview, and the color
+# of the logo. Light enough to stand out on GitHub's dark theme, dark enough
+# for Chalk letters.
+green = "#367456"
+# The letters on Green.
+chalk = "#F4F2EA"
+# The site under the wordmark on the social preview.
+brass = "#E9D18B"
