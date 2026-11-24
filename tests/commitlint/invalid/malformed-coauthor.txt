@@ -1,0 +1,3 @@
+fix(assets): center the monogram in the avatar
+
+Co-authored-by: no email here

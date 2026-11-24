@@ -1,0 +1,1 @@
+feat(assets)!: move the banner's published path

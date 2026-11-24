@@ -1,0 +1,2 @@
+fix(assets): center the monogram in the avatar
+Co-authored-by: Someone <someone@example.com>
