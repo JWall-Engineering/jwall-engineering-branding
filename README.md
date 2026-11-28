@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JWall-Engineering/jwall-engineering-branding/blob/main/LICENSE)
 
 The JWall Engineering brand in one place: the wordmark and the JW monogram,
-the logo, the avatar for the organization and its GitHub App, the banner
+the logo, the avatar for the organization and its GitHub Apps, the banner
 every JWall Engineering README opens with, the social preview, the favicons
 for [jwall.engineering](https://jwall.engineering), and the standard for
 README headers. It is part of [JWall Engineering](https://jwall.engineering).
@@ -24,7 +24,7 @@ path can change freely.
 | Asset | Path | Size | Used for |
 |---|---|---|---|
 | Logo | [`assets/logo/jwall-engineering-logo.png`](assets/logo/jwall-engineering-logo.png) | 1024 × 1024, transparent | Anywhere that supplies its own background, light or dark |
-| Avatar | [`assets/avatar/jwall-engineering-avatar.png`](assets/avatar/jwall-engineering-avatar.png) | 1024 × 1024, Green background | The `JWall-Engineering` organization picture, and the logo of its release App, JWall Engineering Releases |
+| Avatar | [`assets/avatar/jwall-engineering-avatar.png`](assets/avatar/jwall-engineering-avatar.png) | 1024 × 1024, Green background | The `JWall-Engineering` organization picture, and the logo of each of its GitHub Apps: JWall Engineering Releases, Comments, Upgrades and Deployments |
 | README banner | [`assets/banner/jwall-engineering-readme-banner.png`](assets/banner/jwall-engineering-readme-banner.png) | 1280 × 320 | The first line of every JWall Engineering README, and the organization profile |
 | Social preview | [`assets/social/jwall-engineering-social-preview.png`](assets/social/jwall-engineering-social-preview.png) | 1280 × 640, opaque | Each repository's social preview image (Settings → General → Social preview) |
 | Favicon | [`assets/favicon/jwall-engineering-favicon-32.png`](assets/favicon/jwall-engineering-favicon-32.png) | 32 × 32 | The site's browser tab icon |
